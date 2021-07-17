@@ -2,6 +2,9 @@ import cv2
 import pytesseract as ptc
 import argparse
 
+#If you are using windows you have to uncode line below
+#pytesseract.pytesseract.tesseract_cmd = 'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe'
+
 
 #Reading image from your drive
 #You can read give path to image or have image in the same folder with code
