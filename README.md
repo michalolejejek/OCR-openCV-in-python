@@ -61,6 +61,8 @@ Now you can install tesseract by pip
 
 `pip install tesseract-ocr`
 
+`pip install pytesseract`
+
 
 and install openCV
 
